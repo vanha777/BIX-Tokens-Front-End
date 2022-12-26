@@ -8,7 +8,7 @@ const Features = () => {
           <div className='section-title'>
             <h2>The Benefit Of Our tokenholders</h2>
             <p>
-            BIX Tokens are a governance cryptocurrency that allows token holders to vote on the direction of a blockchain project as well as share profits and revenues.
+            BIX Tokens are a custom cryptocurrency developed by Bixtech, which uses them to pay for its SaaS services.
             </p>
           </div>
           <div className='row align-items-center justify-content-center'>
@@ -17,9 +17,9 @@ const Features = () => {
                 <div className='icon'>
                   <img src='/images/icon/icon18.png' alt='image' />
                 </div>
-                <h3>Purposes</h3>
+                <h3>Driven-Purposes</h3>
                 <p>
-                Real-life projects and current business uses include multiple incoming future projects and partnerships.
+                Make positive changes by addressing real-life issues in your current business.
                 </p>
               </div>
             </div>
@@ -28,9 +28,9 @@ const Features = () => {
                 <div className='icon bg-ffefc7'>
                   <img src='/images/icon/icon19.png' alt='image' />
                 </div>
-                <h3>Secured</h3>
+                <h3>Chain-Secured</h3>
                 <p>
-                Tokens are deployed on a decentralised blockchain that is not reversible and tamper-proof, similar to how shares are registered with a securities commission but are not controlled or manipulated by any organizations.
+                Tokens are deployed on a decentralized blockchain that is not reversible, controlled, or manipulable; it is tamper-proof.
                 </p>
               </div>
             </div>
@@ -41,7 +41,7 @@ const Features = () => {
                 </div>
                 <h3>Regulated</h3>
                 <p>
-                Our tokens are deployed on well-known Binance blockchain platforms, following the BEP-20 contract format pre-set by Binance.
+                BIX tokens used the interfaces of the BEP-20 smart contract and were deployed on Binance's smart chain. All codes are open-source and ready for audits.
                 </p>
               </div>
             </div>

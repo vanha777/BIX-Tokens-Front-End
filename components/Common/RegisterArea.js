@@ -8,9 +8,9 @@ const RegisterArea = ({bgGradient,blackText,ctaImage}) => {
           <div className='row align-items-center justify-content-center'>
             <div className='col-lg-6 col-md-12'>
               <div className={`cta-content ${blackText}`}>
-                <h2>Start Your Investing Early</h2>
+                <h2>Early stage investors</h2>
                 <p>
-              Investing carry all risk, the bigger risk come with bigger rewards.
+                Purchase Now, enjoy the ride, and See You On The Moon! 
                 </p>
                 <a href='/'/*login-register.html'*/ className='default-btn'>
                   <i className='bx bxs-user'></i> Register Now

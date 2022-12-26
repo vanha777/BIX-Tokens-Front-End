@@ -52,28 +52,28 @@ const Footer = () => {
                 </ul>
               </div>
             </div>
-            <div className='col-lg-2 col-sm-6 col-md-6'>
+            {/*<div className='col-lg-2 col-sm-6 col-md-6'>
               <div className='single-footer-widget'>
                 <h3>Cryptocurrency</h3>
                 <ul className='services-links'>
                   <li>
-                    <Link legacyBehavior href='/'/*buy'*/>Buy Bitcoin</Link>
+                    <Link legacyBehavior href='/buy'>Buy Bitcoin</Link>
                   </li>
                   <li>
-                    <Link legacyBehavior href='/'/*buy'*/>Buy BNB</Link>
+                    <Link legacyBehavior href='/buy'>Buy BNB</Link>
                   </li>
                   <li>
-                    <Link legacyBehavior href='/'/*buy'*/>Buy Ethereum</Link>
+                    <Link legacyBehavior href='/buy'>Buy Ethereum</Link>
                   </li>
                   <li>
-                    <Link legacyBehavior href='/'/*buy'*/>Buy Ripple</Link>
+                    <Link legacyBehavior href='/buy'>Buy Ripple</Link>
                   </li>
                   <li>
-                    <Link legacyBehavior href='/'/*buy'*/>Buy Litecoin</Link>
+                    <Link legacyBehavior href='/buy'>Buy Litecoin</Link>
                   </li>
                 </ul>
               </div>
-            </div>
+              </div>*/}
             <div className='col-lg-3 col-sm-6 col-md-6'>
               <div className='single-footer-widget pl-5'>
                 <h3>Resources</h3>

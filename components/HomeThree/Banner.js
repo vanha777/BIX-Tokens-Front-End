@@ -9,7 +9,7 @@ const Banner = () => {
             <div className='col-xl-5 col-lg-6 col-md-12 p-0'>
               <div className='banner-wrapper-content'>
                 <span className='sub-title'>
-                This is a private event for internal audiences only, not for the general public. 
+                Attention: This is a private event for internal audiences only
                 </span>
                 <h1>A Trusted and Secure Tokenomics System</h1>
                 <p>

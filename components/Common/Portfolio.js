@@ -38,30 +38,21 @@ const Portfolio = ({ bgColor, contentColor, shape }) => {
                   {display ? (
                     <OwlCarousel loop margin={10} nav {...options}>
                       <div className='content'>
-                        <h3>Manage Your Portfolio</h3>
+                        <h3>Early Access</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                        Be the first to access our private sales, private funding, and crowd funding.
                         </p>
                       </div>
                       <div className='content'>
-                        <h3>Update On Projects</h3>
+                        <h3>Our Roadmap </h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                        Check out our plans to speed up projects and increase token usability. This includes our exchange listing and initial public offering (IPO).
                         </p>
                       </div>
                       <div className='content'>
-                        <h3>Vault Protection</h3>
+                        <h3>Join Our Commuinity</h3>
                         <p>
-                          Lorem ipsum dolor sit amet, consectetur adipiscing
-                          elit, sed do eiusmod tempor incididunt ut labore et
-                          dolore magna aliqua. Ut enim ad minim veniam, quis
-                          nostrud exercitation ullamco.
+                        Join our Private Investor Group Chat to stay up to date on changes, discuss our roadmap, and vote on how to implement our tokenomic.
                         </p>
                       </div>
                     </OwlCarousel>

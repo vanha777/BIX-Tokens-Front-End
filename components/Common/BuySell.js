@@ -6,7 +6,7 @@ const BuySell = () => {
           <div className='section-title'>
             <h2>How to Buy and Sell a Pre-ICO Cryptocurrency</h2>
             <p>
-            This is a pre-initial public offering token, which means we are not listed on a public exchange for public trade yet. Below are the guidance and instructions on how to buy, sell, and hold pre-ICO tokens.
+            This is an internal sale; we are not yet open to the general public. Below are the guidance and instructions on how to buy, sell, and hold pre-ICO tokens.
             </p>
           </div>
           <div className='row justify-content-center'>
@@ -28,7 +28,7 @@ const BuySell = () => {
                 </div>
                 <h3>Step 2</h3>
                 <p>
-                Prepare a crypto currency wallet that supports the Binance Smart Chain network; it can be either a cold or hot wallet, for example: Metamask, Trustwallet, Ledger,...
+                Get a BNB Smart Chain (BSC) crypto wallet, for example: Metamask, Trustwallet, Ledger,...
                 </p>
               </div>
             </div>
@@ -39,7 +39,7 @@ const BuySell = () => {
                 </div>
                 <h3>Step 3</h3>
                 <p>
-                Funding your personal wallet with any public trade cryptocurrency depends on how much BIX you would like to purchase.
+                Have enough BNB (Binance coins) in your wallet to cover the transfer fee. Typicallly: 1 or 2 coins.
                 </p>
               </div>
             </div>
@@ -72,7 +72,7 @@ const BuySell = () => {
                 </div>
                 <h3>Step 6</h3>
                 <p>
-                After receiving confirmations from us that BIX has been sent, you should be able to see it in your wallet or on Binance Smart Chain Scan (https://bscscan.com/). If you can't find it in your wallet, don't worry; contact our team to get instructions on how to configure your wallet and display custom tokens.
+                Check Binance Smart Chain Scan (https://bscscan.com/) after receiving BIX. You need to configure your wallet to display custom tokens. Contact Us.
                 </p>
               </div>
             </div>

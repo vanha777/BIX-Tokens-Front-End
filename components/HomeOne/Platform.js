@@ -52,9 +52,9 @@ const Platform = () => {
       <div className='cryptocurrency-platform-area'>
         <div className='container-fluid'>
           <div className='section-title'>
-            <h2>Future Project Goals And Ideas</h2>
+            <h2>Department of Research and Development </h2>
             <p>
-            Any research requires at least 15 years to reach the average person. Our goals are to accelerate and tackle people's everyday problems by implementing SASS and blockchain technology into business operations more effectively. Simply put, if you are selling, managing, or investing, we will make it easier for you.
+            Our missions are to accelerate and address users' everyday problems by incorporating SASS and blockchain technology into business operations. We will make it easier for you to sell, manage, or invest.
             </p>
           </div>
           <div className='cryptocurrency-platform-slides'>
@@ -77,11 +77,11 @@ const Platform = () => {
                     </div>
                     <h3>
                       <a href='cryptocurrency-details.html'>
-                      Automotive Iot
+                      Smart Vehicles App Intergrate
                       </a>
                     </h3>
                     <p>
-                    We combine Mercedes-Benz user OAuthentications processes, which grant users access to data from their vehicle, with smart home apps to provide our clients with the ability to request data from the vehicle, control accessories, turn on heaters and air conditioning, and pre-set car environments as easily as turning on their garage light bulbs. without modifying your original Mercedes-Benz.
+                    Using Mercedes-Benz APIs and SDKs, we create innovative smart home applications with official vehicle-related data. With your smartphone, you can control accessories, turn on heaters and air conditioning, and preset car environments from anywhere.
                     </p>
                     <Link legacyBehavior href='/'/*cryptocurrency-details'*/ className='link-btn'>
                       <a className='link-btn'>
@@ -106,7 +106,7 @@ const Platform = () => {
                       </a>
                     </h3>
                     <p>
-                    A new SaaS service that helps you keep track of your property investment provides listing price action, auction rate, clearance rate, number of stocks, market sentiments, and combines this with many finance tools such as analysing future trends of areas, cities, and neighbours; all feeds and stats are live from local auction rates and real estate agencies.
+                    Tracking your property investment includes listing price, auction rate, clearance rate, demands and supply, market sentiments, and many bank-integrated finance tools, all in one place.
                     </p>
                     <Link legacyBehavior href='/'/*cryptocurrency-details'*/ className='link-btn'>
                       <a className='link-btn'>
@@ -127,11 +127,11 @@ const Platform = () => {
                     </div>
                     <h3>
                       <a href='cryptocurrency-details.html'>
-                      Know Your Customers
+                      Tool for Customer Databases
                       </a>
                     </h3>
                     <p>
-                    a SaaS software that helps small businesses manage their existing customer database and, more importantly, maximise profits by profiling, connecting, analyzing, and marketing with just a few clicks.
+                    With a few clicks, you can instantly connect with thousands of customers. Send and receive information, connect on social media, and access a variety of flatform marketing tools.
                     </p>
                     <Link legacyBehavior href='/'/*cryptocurrency-details'*/ className='link-btn'>
                       <a className='link-btn'>
@@ -151,10 +151,10 @@ const Platform = () => {
                       <img src='/images/icon/icon7.png' alt='image' />
                     </div>
                     <h3>
-                      <a href='cryptocurrency-details.html'>A Tokenomic System</a>
+                      <a href='cryptocurrency-details.html'>A Decentralized Payments System</a>
                     </h3>
                     <p>
-                    We intend to scale up and offer payment services using our own cryptocurrency by leveraging our E-commerce, SAS, and future partnerships with existing businesses.
+                    We are collaborating with existing customers to implement SASS software and integrate BIX tokens into their payment systems. to create a decentralized network that benefits both buyers and sellers.
                     </p>
                     <Link legacyBehavior href='/'/*cryptocurrency-details'*/ className='link-btn'>
                       <a className='link-btn'>

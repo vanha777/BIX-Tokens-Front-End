@@ -7,7 +7,7 @@ const AdvisorArea = ({bgColor}) => {
           <div className='section-title'>
             <h2>Our Advisors</h2>
             <p>
-           A commited team.
+            The body has limitations, but the mind doesn't.
             </p>
           </div>
           <div className='row justify-content-center'>
