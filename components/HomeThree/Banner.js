@@ -26,8 +26,8 @@ const Banner = () => {
                   />
                   <button type='submit'>
                     Get Started <i className='bx bx-chevron-right'></i>
-                  </button>
-                  <div id='validator-newsletter' className='form-result'></div>
+                    </button>
+                    <div id='validator-newsletter' className='form-result'></div>
                 </form>
               </div>
             </div>

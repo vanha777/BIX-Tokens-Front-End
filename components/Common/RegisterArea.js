@@ -12,7 +12,7 @@ const RegisterArea = ({bgGradient,blackText,ctaImage}) => {
                 <p>
                 Purchase Now, enjoy the ride, and See You On The Moon! 
                 </p>
-                <a href='/'/*login-register.html'*/ className='default-btn'>
+                <a href='https://docs.google.com/forms/d/e/1FAIpQLSeE3yG-1BMYCobb0eyyJXOwao3rYHD6UhbknxD3LbnbGQLQ8w/viewform?usp=sf_link' target="_blank" className='default-btn'>
                   <i className='bx bxs-user'></i> Register Now
                 </a>
               </div>

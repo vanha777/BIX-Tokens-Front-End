@@ -99,10 +99,10 @@ const TokensArea = () => {
                   </span>
                 </div>
                 <div className='btn-box'>
-                  <a href='/'/*buy.html'*/ className='default-btn'>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeE3yG-1BMYCobb0eyyJXOwao3rYHD6UhbknxD3LbnbGQLQ8w/viewform?usp=sf_link" target="_blank" className='default-btn'>
                     <i className='bx bxs-discount'></i> Buy Tokens 55% Off
                   </a>
-                  <a href='#' target='_blank' className='default-btn'>
+                  <a href="https://docs.google.com/forms/d/e/1FAIpQLSeE3yG-1BMYCobb0eyyJXOwao3rYHD6UhbknxD3LbnbGQLQ8w/viewform?usp=sf_link" target="_blank" className='default-btn'>
                     <i className='bx bxs-file'></i> White Pappers
                   </a>
                 </div>

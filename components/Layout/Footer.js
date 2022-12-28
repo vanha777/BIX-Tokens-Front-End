@@ -105,7 +105,7 @@ const Footer = () => {
                     Email: <a href='mailto:office@eazyhomeiot.com.au'>office@eazyhomeiot.com.au</a>
                   </li>
                   <li>
-                    Phone: <a href='tel:+44587154756'>+61 451 862 476</a>
+                    Telegram: <a href='tel:+44587154756'>@BixTechAu</a>
                   </li>
                 </ul>
               </div>
