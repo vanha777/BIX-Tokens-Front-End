@@ -10,7 +10,7 @@ const RegisterArea = ({bgGradient,blackText,ctaImage}) => {
               <div className={`cta-content ${blackText}`}>
                 <h2>Early stage investors</h2>
                 <p>
-                Purchase Now, enjoy the ride, and See You On The Moon! 
+                It all comes down to valuations when it comes to investing in startups. Many investors are looking for these companies in their early stages. The later you invest, the higher the price of the company.
                 </p>
                 <a href='https://docs.google.com/forms/d/e/1FAIpQLSeE3yG-1BMYCobb0eyyJXOwao3rYHD6UhbknxD3LbnbGQLQ8w/viewform?usp=sf_link' target="_blank" className='default-btn'>
                   <i className='bx bxs-user'></i> Register Now
